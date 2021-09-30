@@ -1,0 +1,19 @@
+[INFO ] 2021-09-19 17:49:17.255 [main] Log - I am in onStart method SmokeTest
+[INFO ] 2021-09-19 17:49:26.380 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is starting.
+[INFO ] 2021-09-19 17:49:27.245 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is failed.
+[INFO ] 2021-09-19 17:49:27.626 [main] Log - I am in onFinish method SmokeTest
+[INFO ] 2021-09-19 17:51:02.976 [main] Log - I am in onStart method SmokeTest
+[INFO ] 2021-09-19 17:51:10.922 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is starting.
+[INFO ] 2021-09-19 17:51:11.546 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is failed.
+[INFO ] 2021-09-19 17:51:11.927 [main] Log - I am in onFinish method SmokeTest
+[INFO ] 2021-09-19 18:02:41.568 [main] Log - I am in onStart method SmokeTest
+[INFO ] 2021-09-19 18:02:50.152 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is starting.
+[INFO ] 2021-09-19 18:02:50.645 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is skipped.
+[INFO ] 2021-09-19 18:02:56.898 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is starting.
+[INFO ] 2021-09-19 18:02:56.902 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is failed.
+[INFO ] 2021-09-19 18:02:57.338 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is failed.
+[INFO ] 2021-09-19 18:02:57.745 [main] Log - I am in onFinish method SmokeTest
+[INFO ] 2021-09-19 18:05:40.338 [main] Log - I am in onStart method SmokeTest
+[INFO ] 2021-09-19 18:05:48.623 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is starting.
+[INFO ] 2021-09-19 18:05:49.451 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is succeed.
+[INFO ] 2021-09-19 18:05:49.512 [main] Log - I am in onFinish method SmokeTest

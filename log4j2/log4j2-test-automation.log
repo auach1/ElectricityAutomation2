@@ -1,0 +1,4 @@
+[INFO ] 2021-09-29 16:41:20.693 [main] Log - I am in onStart method SmokeTest
+[INFO ] 2021-09-29 16:41:32.064 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is starting.
+[INFO ] 2021-09-29 16:41:32.886 [TestNG-test=SmokeTest-1] Log - goSwiftPageValidation test is succeed.
+[INFO ] 2021-09-29 16:41:32.954 [main] Log - I am in onFinish method SmokeTest

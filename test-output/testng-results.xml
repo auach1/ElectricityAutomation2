@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-29T16:41:20 IST" name="Smoke" finished-at="2021-09-29T16:41:32 IST" duration-ms="12210">
+    <groups>
+    </groups>
+    <test started-at="2021-09-29T16:41:20 IST" name="SmokeTest" finished-at="2021-09-29T16:41:32 IST" duration-ms="12210">
+      <class name="testCases.TC_GoSwiftPage">
+        <test-method is-config="true" signature="landingPage(java.lang.reflect.Method)[pri:0, instance:testCases.TC_GoSwiftPage@62727399]" started-at="2021-09-29T16:41:20 IST" name="landingPage" finished-at="2021-09-29T16:41:32 IST" duration-ms="11327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.TC_GoSwiftPage.goSwiftPageValidation(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPage -->
+        <test-method signature="goSwiftPageValidation(java.lang.reflect.Method)[pri:0, instance:testCases.TC_GoSwiftPage@62727399]" started-at="2021-09-29T16:41:32 IST" name="goSwiftPageValidation" finished-at="2021-09-29T16:41:32 IST" duration-ms="825" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.TC_GoSwiftPage.goSwiftPageValidation(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goSwiftPageValidation -->
+      </class> <!-- testCases.TC_GoSwiftPage -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- Smoke -->
+</testng-results>
